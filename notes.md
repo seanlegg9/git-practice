@@ -27,3 +27,29 @@ Show history
 ------------
 
 git log
+
+Make repository on GitHub
+-------------------------
+
+Drop down the + in the top right corner
+
+Send to repository
+------------------
+
+git remote add origin https://"URL-Goes-Here"
+git push -u origin master
+
+To update on GitHub
+-------------------
+
+git push
+
+To clone to work at home
+------------------------
+
+git clone https://"URL-Goes-Here"
+
+To bring homework back on school computer
+-----------------------------------------
+
+git pull

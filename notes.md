@@ -1,8 +1,8 @@
 Very first time on a computer
 -----------------------------
 
-git config --global user.name "Sean Legg"
-git config --global user.email "slegg@gmail.com"
+git config --global user.name "seanlegg9"
+git config --global user.email "seanlegg9@gmail.com"
 
 Once every new project, in the project folder
 ---------------------------------------------
